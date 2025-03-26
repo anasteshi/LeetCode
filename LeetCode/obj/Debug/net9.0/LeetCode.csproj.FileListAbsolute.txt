@@ -1,0 +1,14 @@
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.deps.json
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.runtimeconfig.json
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.dll
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.pdb
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.AssemblyInfoInputs.cache
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.AssemblyInfo.cs
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.csproj.CoreCompileInputs.cache
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.dll
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/refint/LeetCode.dll
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.pdb
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.genruntimeconfig.cache
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/ref/LeetCode.dll
