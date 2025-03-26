@@ -12,3 +12,4 @@
 /Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.pdb
 /Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.genruntimeconfig.cache
 /Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/ref/LeetCode.dll
+/Users/anastasiiakholodiuk/Desktop/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.sourcelink.json
