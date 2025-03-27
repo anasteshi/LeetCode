@@ -11,9 +11,6 @@ class Program
 
         int x = -2147483412;
         Solution0007.Reverse(x);
-        
-        
-
-
+        Solution0014.LongestCommonPrefix2(["flower", "flow", "flight"]);
     }
 }
