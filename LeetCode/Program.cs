@@ -9,8 +9,12 @@ class Program
         
         //Console.WriteLine(Solution0013.RomanToInt("MCMXCIV"));
 
-        int x = -2147483412;
-        Solution0007.Reverse(x);
-        Solution0014.LongestCommonPrefix2(["flower", "flow", "flight"]);
+        // int x = -2147483412;
+        // Solution0007.Reverse(x);
+        
+        // Solution0014.LongestCommonPrefix2(["flower", "flow", "flight"]);
+        
+        Console.WriteLine(Solution0043.Multiply("123", "456"));
+
     }
 }
